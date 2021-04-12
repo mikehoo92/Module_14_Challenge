@@ -66,6 +66,9 @@ After tweaking some of the model's inputs to try to achieve better trading outco
 
 4) Evaluationg a New Machine Learning Classifier - I decided to use the Linear Model and Logistic Regression Model. When using this model and the original data, the model's accuracy decreased 3% points from 55% to 52%. The Actual returns increased slightly and the actual and strategy returns crossed over each other, with the actual returns on an upward trend and the strategy returns on a downward trend. 
 
+![](Images/initial_svm_model.png)  
+![](Images/Linear_Regression_model.png) 
+
 
 ---
 
